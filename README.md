@@ -15,7 +15,7 @@ O projeto consiste em uma aplicação Java que simula as operações básicas de
 
 ## Requisitos
 
-- JDK (Java Development Kit) instalado
+- JDK (Java )
 
 ## Como Usar
 Clone este repositório para o seu computador.
